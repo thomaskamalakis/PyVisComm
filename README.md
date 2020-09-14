@@ -1,7 +1,5 @@
 # PyVisComm
 We have implemented two basic components of PyVisComm. 
-The one is libdmt which is used to simulate the DMT transceiver in great detail. 
-The second component is libimres which can be used to calculate the impulse response of the optical wireless channel.
 
 This project contains two modules. File description:
 
